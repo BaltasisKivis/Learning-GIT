@@ -12,3 +12,10 @@ h1 {
     height: 400px;
     background-color: rebeccapurple;
 }
+
+.contacts {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    background-color: teal;
+}
